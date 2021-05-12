@@ -1,0 +1,1 @@
+docker build -t myapache_hello:1.0 -f dockerfile_2 .
